@@ -1,0 +1,1 @@
+run -python pdfParser.py <path to pdf file>
